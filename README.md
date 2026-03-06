@@ -32,3 +32,14 @@ class Solution {
         return sum;
     }
 }
+Complexity Analysis
+
+Time Complexity:
+O(d)
+Where d is the number of digits in n.
+
+Space Complexity:
+O(1) (constant space)
+
+Author
+Sanjeev Sharma
